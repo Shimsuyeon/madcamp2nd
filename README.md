@@ -20,7 +20,7 @@ playlist 공유하는 app 제작
 자신의 youtube channel link 입력 시
 자동으로 handdle id -> channel id 추출
 channel id -> 공개된 재생목록의 id, thumbnail url, playlist title, channel title, playlist description 가져옴
-해당 정보를 바탕으로 업데이ㅌ,
+해당 정보를 바탕으로 업데이트
 <p align="center">
   <img src="https://github.com/tylerkim1/Madcamp_1/assets/84979352/8df71d19-053d-495b-b220-33eaa5ef7e91" width="300">
 </p>
