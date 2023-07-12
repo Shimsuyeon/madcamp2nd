@@ -26,7 +26,9 @@ channel id -> 공개된 재생목록의 id, thumbnail url, playlist title, chann
 </p>
 
 ### 4. main page
-DB에 저장된 playlist를 출력.
+자신의 playlist에서 추가하면 메인 화면에 등록됨.
+게시된 playlist는 다른 사용자가 볼 수 있으며 조회수와 좋아요 수가 화면 우측 상단에 나타남.
+게시글 클릭시 상세페이지로 이동하며 playlist에 수록된 노래들을 볼 수 있음.
 
 <p align="center">
   <img src="https://github.com/tylerkim1/Madcamp_1/assets/84979352/2a21456d-fb86-4bda-959b-73effedafc78" width="300">
